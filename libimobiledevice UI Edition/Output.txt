@@ -1,0 +1,103 @@
+ActivationState: Activated
+ActivationStateAcknowledged: true
+BasebandActivationTicketVersion: V2
+BasebandCertId: 165673526
+BasebandChipID: 94
+BasebandKeyHashInformation: 
+ AKeyStatus: 64
+ SKeyStatus: 2
+BasebandMasterKeyHash: 1B41607650EBF11C6B39F41CB267DC64C121A9BCF44DBA5D28F55ACC86361BBA366554CD57B4C466055803E1EF81C870
+BasebandRegionSKU: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+BasebandSerialNumber: IeDEH/FGtEMAAAAA
+BasebandStatus: BBInfoAvailable
+BasebandVersion: 1.06.02
+BluetoothAddress: 90:e1:7b:80:07:09
+BoardId: 26
+BrickState: false
+BuildVersion: 16G77
+CPUArchitecture: arm64e
+CarrierBundleInfoArray[1]: 
+ 0: 
+  CFBundleIdentifier: com.apple.O2_UK
+  CFBundleVersion: 36.2
+  GID1: 90ffffffffff43434c20202020202020
+  GID2: ffffffffffff20202020202020202020
+  IntegratedCircuitCardIdentity: 8944110066965937906
+  InternationalMobileSubscriberIdentity: 234106673692937
+  MCC: 234
+  MNC: 10
+  MobileEquipmentIdentifier: 35728609668173
+  SIMGID1: kP//////Q0NMICAgICAgIA==
+  SIMGID2: ////////ICAgICAgICAgIA==
+  Slot: kOne
+  kCTPostponementInfoAvailable: SIMCarrierInfo
+CertID: 165673526
+ChipID: 32800
+ChipSerialNo: IeDEH/FGtEMAAAAA
+DeviceClass: iPhone
+DeviceColor: 1
+DeviceName: Nathan’s iPhone
+DieID: 2327563817320494
+EthernetAddress: 90:e1:7b:89:b0:3e
+FirmwareVersion: iBoot-4513.270.14
+FusingStatus: 3
+GID1: 90ffffffffff43434c20202020202020
+GID2: ffffffffffff20202020202020202020
+HardwareModel: D331pAP
+HardwarePlatform: t8020
+HasSiDP: true
+HostAttached: true
+IntegratedCircuitCardIdentity: 8944110066965937906
+InternationalMobileEquipmentIdentity: 357286096681733
+InternationalMobileEquipmentIdentity2: 357286096749993
+InternationalMobileSubscriberIdentity: 234106673692937
+InternationalMobileSubscriberIdentityOverride: false
+MLBSerialNumber: FG384840BAXJJ02B5
+MobileEquipmentIdentifier: 35728609668173
+MobileSubscriberCountryCode: 
+MobileSubscriberNetworkCode: 10
+ModelNumber: MT502
+NonVolatileRAM: 
+ auto-boot: dHJ1ZQ==
+ backlight-level: NzQw
+ boot-args: 
+ com.apple.System.tz0-size: MHhDNzAwMDAw
+ usbcfwflasherResult: Tm8gZXJyb3Jz
+PRIVersion_Major: 0
+PRIVersion_Minor: 0
+PRIVersion_ReleaseNo: 3
+PartitionType: GUID_partition_scheme
+PasswordProtected: true
+PhoneNumber: +44 7885 636837
+PkHash: Cd/6NgojZdvFdrua7kmhbhH9801PcduVa9Xn90f53Ro=
+ProductName: iPhone OS
+ProductType: iPhone11,6
+ProductVersion: 12.4
+ProductionSOC: true
+ProtocolVersion: 2
+ProximitySensorCalibration: f3oABTIAHgAhPadB3qIfQgAAyEJ2XllBlg/fQQAAFkN2XllBlg/fQQAAFkMGI8ZChK0ZwTTKykQ4+clEF+7HRJa6x0TasHFBeRR7QdE/okHFrqtBAAAgQgXRIENPTctBAABIQmkV4kP/YeFDfaj8RQlwhEMEz7IhAR4YEuNlkkV4TK9DgSciRQIAAAAAAAAy
+RegionInfo: B/A
+SIM1IsEmbedded: false
+SIMGID1: kP//////Q0NMICAgICAgIA==
+SIMGID2: ////////ICAgICAgICAgIA==
+SIMStatus: kCTSIMSupportSIMStatusReady
+SIMTrayStatus: kCTSIMSupportSIMTrayInsertedWithSIM
+SerialNumber: FFWXRCQQKPH1
+SoftwareBehavior: AQQAAAAAAAAAAAAAAAAAAA==
+SoftwareBundleVersion: 
+SupportedDeviceFamilies[1]: 
+ 0: 1
+TelephonyCapability: true
+TimeIntervalSince1970: 1566854635.065849
+TimeZone: Europe/London
+TimeZoneOffsetFromUTC: 3600.000000
+TrustedHostAttached: true
+UniqueChipID: 2327563817320494
+UniqueDeviceID: 00008020-000844E82E86002E
+UseRaptorCerts: true
+Uses24HourClock: false
+WiFiAddress: 90:e1:7b:7d:37:50
+WirelessBoardSerialNumber: 8B3548D00B9
+kCTPostponementInfoPRIVersion: 0.0.3
+kCTPostponementInfoServiceProvisioningState: true
+kCTPostponementStatus: kCTPostponementStatusActivated
