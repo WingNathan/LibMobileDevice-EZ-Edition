@@ -4,3 +4,5 @@
  Rest of Code - Me @wingnathan 
 
 Version 1.0 - Initial release
+
+Version 1.5 - Release to include Custom user input commands

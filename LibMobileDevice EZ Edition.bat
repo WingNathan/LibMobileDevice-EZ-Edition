@@ -1,6 +1,7 @@
 @ECHO OFF
 C:
 CLS
+CD %MYFILES%
 :MENU
 CLS
 
@@ -18,7 +19,7 @@ del C:\Users\%USERNAME%\Desktop\DeviceData.txt
 ECHO %DeviceName%
 ECHO %Identifier%
 ECHO %IOS%
-ECHO ============= LibMobileDevice UI Edition =============
+ECHO ============= LibMobileDevice EZ Edition =============
 ECHO -------------------------------------
 ECHO 1.  Get Boot Nonce
 ECHO 2.  Start System Logging
@@ -102,6 +103,7 @@ idevicesyslog
 CD C:\Users\%USERNAME%\Desktop
 mkdir CrashLogs
 ECHO This May Take Some Time
+CD %MYFILES%
 idevicecrashreport -k C:\Users\%USERNAME%\Desktop\CrashLogs
 GOTO MENU
 :NotConfigured
@@ -117,6 +119,15 @@ set /p Command="Enter your LibMobileDevice Command Now: "
 
 
 
+IF /I "%Command%"=="Quit" (
+    GOTO MENU
+)
+
+
+echo.
+echo.
+echo.
+echo Type Quit to exit to menu
 GOTO EnterCustomCommand
 
 
