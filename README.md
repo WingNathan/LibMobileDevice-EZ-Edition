@@ -6,3 +6,6 @@
 Version 1.0 - Initial release
 
 Version 1.5 - Release to include Custom user input commands
+
+Version 2 - GUI Update - Features removed for the time being 
+				GUI ADDED
