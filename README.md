@@ -9,3 +9,4 @@ Version 1.5 - Release to include Custom user input commands
 
 Version 2 - GUI Update - Features removed for the time being 
 				GUI ADDED
+Version 3 - Removed GUI to a compiling issue - Source code uploaded
